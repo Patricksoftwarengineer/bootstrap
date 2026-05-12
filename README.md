@@ -17,7 +17,7 @@
         <div class="row">
 
             <!-- Card 1 -->
-            <div class="col">
+            <div class="col-4">
                 <div class="card border-primary mb-3">
                     <div class="card-header text-bg-primary">Header</div>
 
@@ -33,7 +33,7 @@
             </div>
 
             <!-- Card 2 -->
-            <div class="col">
+            <div class="col-4">
                 <div class="card border-danger mb-3">
                     <div class="card-header text-bg-danger">Header</div>
 
@@ -49,7 +49,7 @@
             </div>
 
             <!-- Card 3 -->
-            <div class="col">
+            <div class="col-4">
                 <div class="card border-success mb-3">
                     <div class="card-header text-bg-success">Header</div>
 
